@@ -1,0 +1,2 @@
+# CSU_yuketang_automator
+基于selenium实现的中南大学雨课堂刷课脚本
