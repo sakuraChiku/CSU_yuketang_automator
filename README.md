@@ -40,7 +40,7 @@ pip install selenium
 csftoken = 'your_token'
 sessionid = 'your_sessionid'
 
-3. 运行：
+4. 运行：
 
 python yuketang.py
 
